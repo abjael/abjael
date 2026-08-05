@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Abjael das Neves, tenho 20 anos e sou natural de Alagoas. Graduando em Ciência da Computação pela Universidade Federal de Alagoas (UFAL), com experiência em desenvolvimento backend e resolução de problemas computacionais. Possuo conhecimentos em C, Python e SQL, atuando na construção de soluções eficientes, análise de dados e otimização de processos.
+Me chamo Abjael das Neves, tenho 21 anos e sou natural de Alagoas. Graduando em Ciência da Computação pela Universidade Federal de Alagoas (UFAL), com experiência em desenvolvimento backend e resolução de problemas computacionais. Possuo conhecimentos em C, Python e SQL, atuando na construção de soluções eficientes, análise de dados e otimização de processos.
 
 ---
 
