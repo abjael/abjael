@@ -10,10 +10,10 @@ Meu foco é **cibersegurança**, com interesse tanto em segurança ofensiva (pen
 
 ### 🔐 Foco atual
 
-- Estudo de segurança ofensiva e defensiva, com prática na plataforma **TryHackMe**
+- Estudo de segurança ofensiva e defensiva
 - Segurança de aplicações web e de bancos de dados
 - Automação de tarefas e análise de dados com Python
-- Desenvolvimento de sistemas acadêmicos em equipe (liderança e modelagem de banco de dados)
+- Desenvolvimento de sistemas acadêmicos em equipe (liderança e segurança)
 
 ---
 
